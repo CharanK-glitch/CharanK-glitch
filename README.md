@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/CharanK-glitch/CharanK-glitch/blob/main/banner.jpg" alt="Banner" height="300" width="3200"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Hardware Security<br>💬 Ask me about Cryptography, PQC, Hardware Security, Side channel Attacks, RTL-GDSII Design<br>📫 How to reach me kashmahanticharan@gmail.com
 
