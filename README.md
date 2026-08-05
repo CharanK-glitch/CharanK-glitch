@@ -8,7 +8,7 @@
 
   <p align="center">
     <b>Project Associate @ Cystar Lab, IIT Madras</b><br>
-    <i>Hardware Security Researcher (IIT Kharagpur | AMD)</i>
+    <i>Hardware Security Researcher</i>
   </p>
 
   <div align="center">
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About My Work
 
-I specialize in securing hardware at the foundational level, from microarchitectural leakage to post-quantum cryptography. My research spans academic labs at IIT Madras and IIT Kharagpur, alongside industry experience optimizing and validating systems at AMD. 
+I specialize in securing hardware at the foundational level, from microarchitectural leakage to post-quantum cryptography. My research at IIT Madras focuses on optimizing and validating complex systems to ensure robust security.
 
 - 🔭 **Currently focusing on:** Micro-architectural Leakage Prevention, GPU performance optimization, and CPU-GPU co-design.
 - ⚡ **Core domains:** Side-Channel Analysis, Fault Injection, ASIC/FPGA Design, and RISC-V Architectures.
