@@ -1,21 +1,48 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hardware+%26+Microarchitecture+Security;Side-Channel+Analysis+%26+PQC;RTL-to-GDSII+%26+RISC-V+Architectures" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hardware+%26+Microarchitecture+Security;Side-Channel+Analysis+%26+PQC;RTL-to-GDSII+%26+RISC-V+Architectures" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <p align="center">
+    <b>Project Associate @ Cystar Lab, IIT Madras</b><br>
+    <i>Hardware Security Researcher (IIT Kharagpur | AMD)</i>
+  </p>
+
+  <div align="center">
+    <a href="mailto:kashmahanticharan@gmail.com"><img src="https://img.shields.io/badge/Email-kashmahanticharan%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  </div>
+</div>
+
+<br>
+
+## 👨‍💻 About My Work
+
+I specialize in securing hardware at the foundational level, from microarchitectural leakage to post-quantum cryptography. My research spans academic labs at IIT Madras and IIT Kharagpur, alongside industry experience optimizing and validating systems at AMD. 
+
+- 🔭 **Currently focusing on:** Micro-architectural Leakage Prevention, GPU performance optimization, and CPU-GPU co-design.
+- ⚡ **Core domains:** Side-Channel Analysis, Fault Injection, ASIC/FPGA Design, and RISC-V Architectures.
+- 🛠️ **Building:** Custom Verilog-based GPU accelerators and validating them on AWS FPGAs.
+
+<br>
+
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <b>Project Associate @ Cystar Lab, IIT Madras</b> | <i>Hardware Security Researcher</i>
+  <!-- Uses Skillicons for a very clean, uniform look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,linux,aws,github,vscode&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <i>C++ • Python • Verilog • Chisel • Linux • AWS FPGAs</i>
 </p>
 
----
+<br>
 
-### 💫 About Me
-* 🔬 **Research Focus:** Hardware Security, Post-Quantum Cryptography (PQC), & Microarchitectural Leakage
-* 💬 **Ask Me About:** Side-Channel Attacks, Fault Injection, RISC-V Cores, & ASIC/FPGA Design
-* 📫 **Contact:** [kashmahanticharan@gmail.com](mailto:kashmahanticharan@gmail.com)
-
----
-
-### 🧠 Research & Repository Architecture
+## 🧠 Research & Repository Architecture
 
 ```mermaid
 graph TD
