@@ -73,6 +73,40 @@ I specialize in securing hardware at the foundational level—preventing microar
 
 <br/>
 
+## 🤝 Open Source & Key Contributions
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B; background-color: #0F172A;">
+    <tr align="center" style="background: linear-gradient(90deg, #7C3AED, #2563EB);">
+      <td colspan="3" style="padding: 12px; color: #FFFFFF; font-size: 16px; font-weight: bold; border-radius: 8px 8px 0 0;">
+        🚀 FEATURED CONTRIBUTIONS & OPEN SOURCE REPOSITORIES
+      </td>
+    </tr>
+    <tr align="center" style="background-color: #1E293B; color: #38BDF8; font-weight: bold;">
+      <td width="33%" style="padding: 10px; border: 1px solid #334155;">Organization / Project</td>
+      <td width="33%" style="padding: 10px; border: 1px solid #334155;">Domain & Focus</td>
+      <td width="34%" style="padding: 10px; border: 1px solid #334155;">Key Tech</td>
+    </tr>
+    <tr align="center" style="color: #E2E8F0;">
+      <td style="padding: 10px; border: 1px solid #334155;"><a href="https://github.com/addhyay/stamp" style="color: #38BDF8; text-decoration: none;"><b>addhyay/stamp</b></a></td>
+      <td style="padding: 10px; border: 1px solid #334155;">Static Timing & Performance Analysis</td>
+      <td style="padding: 10px; border: 1px solid #334155;"><img src="https://img.shields.io/badge/C++%20%7C%20EDA-blue?style=flat-square"/></td>
+    </tr>
+    <tr align="center" style="color: #E2E8F0;">
+      <td style="padding: 10px; border: 1px solid #334155;"><a href="https://github.com/addhyay/dedbrick" style="color: #38BDF8; text-decoration: none;"><b>addhyay/dedbrick</b></a></td>
+      <td style="padding: 10px; border: 1px solid #334155;">Hardware Security Verification & Debug</td>
+      <td style="padding: 10px; border: 1px solid #334155;"><img src="https://img.shields.io/badge/Verilog%20%7C%20Python-orange?style=flat-square"/></td>
+    </tr>
+    <tr align="center" style="color: #E2E8F0;">
+      <td style="padding: 10px; border: 1px solid #334155;"><a href="https://github.com/addhyay/sgemv-cuda" style="color: #38BDF8; text-decoration: none;"><b>addhyay/sgemv-cuda</b></a></td>
+      <td style="padding: 10px; border: 1px solid #334155;">GPU Acceleration & High-Performance Kernels</td>
+      <td style="padding: 10px; border: 1px solid #334155;"><img src="https://img.shields.io/badge/CUDA%20%7C%20C++-green?style=flat-square"/></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ## 🧠 Research Architecture & Project Matrix
 
 <div align="center">
