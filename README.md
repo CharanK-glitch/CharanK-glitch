@@ -148,20 +148,16 @@ I specialize in securing hardware at the foundational level—preventing microar
 ## 📊 GitHub Performance & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanK-glitch&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
-      </td>
-    </tr>
-  </table>
-
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=false&border_color=30363D" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CharanK-glitch&layout=compact&theme=dark&hide_border=false&border_color=30363D&hide=html,css" alt="Top Languages" width="49%" />
+  </p>
+  
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanK-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanK-glitch&theme=dark&hide_border=false&border_color=30363D" alt="GitHub Streak" width="98%" />
+  </p>
 </div>
 
 <br/>
