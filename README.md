@@ -26,14 +26,6 @@
 
 ---
 
-## 🏆 Research Badges & Achievement Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CharanK-glitch&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=1&column=6" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
-
 ## 🔬 Research Focus & Technical Domains
 
 I specialize in securing hardware at the foundational level—preventing microarchitectural leakage and establishing post-quantum cryptographic resilience on custom processor architectures and database infrastructure.
@@ -81,7 +73,7 @@ I specialize in securing hardware at the foundational level—preventing microar
 
 <br/>
 
-## 🎮 Interactive Activity Center & Real-Time Metrics
+## 🎮 Real-Time Research Activity & Contribution Center
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B; background-color: #0F172A;">
@@ -93,7 +85,7 @@ I specialize in securing hardware at the foundational level—preventing microar
     <tr valign="middle" align="center">
       <td width="50%" style="padding: 14px; border: 1px solid #334155;">
         <h4 style="color:#38BDF8; margin:0 0 10px 0;">📊 Weekly Activity Summary</h4>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
       </td>
       <td width="50%" style="padding: 14px; border: 1px solid #334155;">
         <h4 style="color:#22C55E; margin:0 0 10px 0;">⚡ Contribution Streak & Momentum</h4>
