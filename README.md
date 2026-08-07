@@ -73,29 +73,75 @@ I specialize in securing hardware at the foundational level—preventing microar
 
 <br/>
 
-## 🧠 Research Architecture & Repository Ecosystem
+## 🧠 Research Architecture & Project Matrix
 
-```mermaid
-graph TD
-    classDef root fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#E2E8F0;
-    classDef domain fill:#1E293B,stroke:#0284C7,stroke-width:1.5px,color:#38BDF8;
-    classDef repo fill:#1E293B,stroke:#22C55E,stroke-width:1.5px,color:#F8FAFC;
-    classDef tech fill:#0F172A,stroke:#64748B,stroke-width:1px,color:#94A3B8;
-
-    Me["⚡ Charan Kasimahanti<br/><b>Hardware Security Researcher @ IIT Madras</b>"]:::root
-
-    Me --> Architecture["💻 Microarchitecture & Hardware Security"]:::domain
-    Me --> Crypto["🔐 Side-Channel Analysis & PQC"]:::domain
-
-    Architecture --> RV32I["🛠️ RV32I Core / Sapphire SoC<br/><i>RISC-V FPGA Core & Custom Accelerators</i>"]:::repo
-    Crypto --> PQC["🛡️ PQC-Migration / pgcrypto Scanner<br/><i>Post-Quantum Readiness Audit Engine</i>"]:::repo
-    Crypto --> PoMMES["⚡ PoMMES Framework<br/><i>Micro-architectural Leakage Prevention</i>"]:::repo
-
-    RV32I --- TechVerilog["Verilog / Chisel / AXI4"]:::tech
-    RV32I --- TechFPGA["AWS F1 FPGA Validation"]:::tech
-    PQC --- TechPQC["NIST FIPS 203/204/205"]:::tech
-    PoMMES --- TechMasking["Masked Software Countermeasures"]:::tech
-```
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B; background-color: #0F172A;">
+    <!-- Root Header Row -->
+    <tr align="center" style="background: linear-gradient(90deg, #0284C7, #7C3AED);">
+      <td colspan="2" style="padding: 16px; color: #FFFFFF; font-size: 18px; font-weight: bold; border-radius: 8px 8px 0 0;">
+        ⚡ CHARAN KASIMAHANTI — RESEARCH & ENGINEERING ECOSYSTEM
+      </td>
+    </tr>
+    <!-- Subdomains Header -->
+    <tr align="center" style="background-color: #1E293B; color: #38BDF8; font-weight: bold; font-size: 15px;">
+      <td width="50%" style="padding: 12px; border: 1px solid #334155;">
+        💻 Microarchitecture & Hardware Security
+      </td>
+      <td width="50%" style="padding: 12px; border: 1px solid #334155;">
+        🔐 Side-Channel Analysis & Post-Quantum Crypto
+      </td>
+    </tr>
+    <!-- Core Projects Row -->
+    <tr valign="top">
+      <!-- Left Column: Microarchitecture -->
+      <td style="padding: 16px; border: 1px solid #334155; background-color: #0F172A;">
+        <table width="100%" style="background-color: #1E293B; border-radius: 8px; border: 1px solid #38BDF8;">
+          <tr>
+            <td style="padding: 12px;">
+              <h4 style="margin:0; color:#38BDF8;">🛠️ Sapphire SoC / RV32I Core</h4>
+              <p style="margin: 6px 0 0 0; color: #94A3B8; font-size: 13px;">
+                Custom RISC-V processor core, pipeline optimization, & hardware accelerators.
+              </p>
+              <br/>
+              <img src="https://img.shields.io/badge/Stack-SystemVerilog%20%7C%20Chisel%20%7C%20AXI4-blue?style=flat-square" />
+              <img src="https://img.shields.io/badge/Validation-AWS%20F1%20FPGA-orange?style=flat-square" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <!-- Right Column: PQC & Side Channel -->
+      <td style="padding: 16px; border: 1px solid #334155; background-color: #0F172A;">
+        <table width="100%" style="background-color: #1E293B; border-radius: 8px; border: 1px solid #22C55E; margin-bottom: 12px;">
+          <tr>
+            <td style="padding: 12px;">
+              <h4 style="margin:0; color:#22C55E;">🛡️ PQC-Migration / pgcrypto Scanner</h4>
+              <p style="margin: 6px 0 0 0; color: #94A3B8; font-size: 13px;">
+                Automated Post-Quantum Cryptography audit engine for database infrastructure.
+              </p>
+              <br/>
+              <img src="https://img.shields.io/badge/Standard-NIST%20FIPS%20203%2F204%2F205-purple?style=flat-square" />
+              <img src="https://img.shields.io/badge/Tech-Python%20AST%20%7C%20CBOM-green?style=flat-square" />
+            </td>
+          </tr>
+        </table>
+        <table width="100%" style="background-color: #1E293B; border-radius: 8px; border: 1px solid #A855F7;">
+          <tr>
+            <td style="padding: 12px;">
+              <h4 style="margin:0; color:#A855F7;">⚡ PoMMES Framework</h4>
+              <p style="margin: 6px 0 0 0; color: #94A3B8; font-size: 13px;">
+                Microarchitectural leakage prevention & masked software countermeasures.
+              </p>
+              <br/>
+              <img src="https://img.shields.io/badge/Domain-Side--Channel%20Countermeasures-purple?style=flat-square" />
+              <img src="https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Masked%20Software-gray?style=flat-square" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
