@@ -26,6 +26,14 @@
 
 ---
 
+## 🏆 Research Badges & Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CharanK-glitch&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
+
 ## 🔬 Research Focus & Technical Domains
 
 I specialize in securing hardware at the foundational level—preventing microarchitectural leakage and establishing post-quantum cryptographic resilience on custom processor architectures and database infrastructure.
@@ -69,6 +77,30 @@ I specialize in securing hardware at the foundational level—preventing microar
   <img src="https://img.shields.io/badge/RISC--V-RV32I%20%2F%20RV64I-61DAFB?style=flat-square&logo=cpu&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-F1%20FPGA-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cryptography-Post--Quantum%20(NIST%20FIPS)-7C3AED?style=flat-square&logo=shield&logoColor=white" />
+</div>
+
+<br/>
+
+## 🎮 Interactive Activity Center & Real-Time Metrics
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B; background-color: #0F172A;">
+    <tr align="center" style="background: linear-gradient(90deg, #0284C7, #7C3AED);">
+      <td colspan="2" style="padding: 12px; color: #FFFFFF; font-size: 16px; font-weight: bold; border-radius: 8px 8px 0 0;">
+        ⚡ REAL-TIME RESEARCH ACTIVITY & CONTRIBUTION METRICS
+      </td>
+    </tr>
+    <tr valign="middle" align="center">
+      <td width="50%" style="padding: 14px; border: 1px solid #334155;">
+        <h4 style="color:#38BDF8; margin:0 0 10px 0;">📊 Weekly Activity Summary</h4>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" style="padding: 14px; border: 1px solid #334155;">
+        <h4 style="color:#22C55E; margin:0 0 10px 0;">⚡ Contribution Streak & Momentum</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanK-glitch&theme=dark&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -175,23 +207,6 @@ I specialize in securing hardware at the foundational level—preventing microar
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-## 📊 GitHub Performance & Analytics
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=false&border_color=30363D" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CharanK-glitch&layout=compact&theme=dark&hide_border=false&border_color=30363D&hide=html,css" alt="Top Languages" width="49%" />
-  </p>
-  
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanK-glitch&theme=dark&hide_border=false&border_color=30363D" alt="GitHub Streak" width="98%" />
-  </p>
 </div>
 
 <br/>
