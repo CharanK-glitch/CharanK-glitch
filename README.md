@@ -73,19 +73,19 @@ I specialize in securing hardware at the foundational level—preventing microar
 
 <br/>
 
-## 🎮 Real-Time Activity & WakaTime Weekly Center
+## 🎮 Real-Time Research Activity & Contribution Center
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B; background-color: #0F172A;">
     <tr align="center" style="background: linear-gradient(90deg, #0284C7, #7C3AED);">
       <td colspan="2" style="padding: 12px; color: #FFFFFF; font-size: 16px; font-weight: bold; border-radius: 8px 8px 0 0;">
-        ⚡ REAL-TIME RESEARCH ACTIVITY & WEEKLY CODING METRICS
+        ⚡ REAL-TIME RESEARCH ACTIVITY & CONTRIBUTION METRICS
       </td>
     </tr>
     <tr valign="middle" align="center">
       <td width="50%" style="padding: 14px; border: 1px solid #334155;">
-        <h4 style="color:#38BDF8; margin:0 0 10px 0;">📊 Weekly Activity & Coding Time</h4>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CharanK-glitch&theme=dark&hide_border=true&layout=compact" width="100%" alt="Weekly Coding Time" />
+        <h4 style="color:#38BDF8; margin:0 0 10px 0;">📊 Overall Contributions & Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" alt="GitHub Overall Stats" />
       </td>
       <td width="50%" style="padding: 14px; border: 1px solid #334155;">
         <h4 style="color:#22C55E; margin:0 0 10px 0;">⚡ Contribution Streak & Momentum</h4>
