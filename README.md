@@ -82,14 +82,31 @@ I specialize in securing hardware at the foundational level—preventing microar
         ⚡ REAL-TIME RESEARCH ACTIVITY & CONTRIBUTION METRICS
       </td>
     </tr>
-    <tr valign="middle" align="center">
-      <td width="50%" style="padding: 14px; border: 1px solid #334155;">
-        <h4 style="color:#38BDF8; margin:0 0 10px 0;">📊 Overall Contributions & Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=CharanK-glitch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" alt="GitHub Overall Stats" />
-      </td>
-      <td width="50%" style="padding: 14px; border: 1px solid #334155;">
-        <h4 style="color:#22C55E; margin:0 0 10px 0;">⚡ Contribution Streak & Momentum</h4>
+    <tr valign="top" align="center">
+      <td width="50%" style="padding: 16px; border: 1px solid #334155; background-color: #0F172A;">
+        <h4 style="color:#38BDF8; margin:0 0 12px 0;">⚡ Contribution Streak Tracker</h4>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanK-glitch&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+      </td>
+      <td width="50%" style="padding: 16px; border: 1px solid #334155; background-color: #0F172A;">
+        <h4 style="color:#22C55E; margin:0 0 12px 0;">📈 Repository & Code Metrics</h4>
+        <table width="100%" style="background-color: #1E293B; border-radius: 8px; border: 1px solid #334155; padding: 12px; color: #E2E8F0; text-align: left;">
+          <tr>
+            <td style="padding: 6px;"><b>🔬 Primary Research Core:</b></td>
+            <td style="padding: 6px; color: #38BDF8;">Hardware Security & PQC</td>
+          </tr>
+          <tr>
+            <td style="padding: 6px;"><b>💻 Core Languages:</b></td>
+            <td style="padding: 6px; color: #22C55E;">C++, Verilog, Python, C</td>
+          </tr>
+          <tr>
+            <td style="padding: 6px;"><b>🚀 Active Repositories:</b></td>
+            <td style="padding: 6px; color: #A855F7;">PQC-Migration, Sapphire, PoMMES</td>
+          </tr>
+          <tr>
+            <td style="padding: 6px;"><b>🏛️ Research Lab:</b></td>
+            <td style="padding: 6px; color: #F59E0B;">Cystar Lab, IIT Madras</td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
